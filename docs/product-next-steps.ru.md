@@ -79,6 +79,18 @@ Telegram уже является рабочей интеграцией в арх
 
 Это позволяет построить полноценный «AI business OS», где переписки, записи, статусы и память клиента связаны в одном месте.
 
+## Что улучшено сейчас
+
+После последнего улучшения продукт стал ближе к top-startup MVP:
+
+- onboarding теперь является настоящим 6-step wizard: ниша, AI-сотрудник, тон, знания, Telegram и запуск trial;
+- после выбора 6 пунктов пользователь получает понятный следующий action: создать AI-сотрудника, начать trial или открыть dashboard;
+- добавлены тарифы Free/Pro/Business с trial 5–7 дней;
+- добавлены backend endpoints для subscription start/status;
+- добавлены таблицы `subscriptions`, `usage_events`, `analytics_daily` и `salon_playbooks`;
+- dashboard расширен аналитикой: revenue, AI replies, smart funnel, AI quality, trial health и recovered revenue;
+- billing page теперь объясняет trial, лимиты, usage tracking и Kaspi-ready MVP.
+
 ## Что делать дальше: приоритетный план
 
 ### Этап 1 — Довести MVP до реально запускаемого состояния

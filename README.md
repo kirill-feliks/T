@@ -46,7 +46,7 @@ The app now includes a 5–7 day trial model, Free/Pro/Business plan definitions
 
 ## What to do next
 
-See the Russian product/operator guide in [`docs/product-next-steps.ru.md`](docs/product-next-steps.ru.md). It explains what the SaaS can currently do, what to build next, MVP acceptance criteria, and the first commercial launch path for salons.
+See the Russian product/operator guide in [`docs/product-next-steps.ru.md`](docs/product-next-steps.ru.md). It explains what the SaaS can currently do, what to build next, MVP acceptance criteria, and the first commercial launch path for salons. For a deeper list of what to add to make the startup maximally production-ready, see [`docs/startup-perfection-roadmap.ru.md`](docs/startup-perfection-roadmap.ru.md).
 
 ## Deployment
 
